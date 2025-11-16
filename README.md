@@ -51,6 +51,10 @@ plugins and compiled apks: [download from 🥔cloud](https://cloud.leohearts.com
 
 now fully open source. yes, i wrote this (partially)with smali, so no java code.
 
+## Screenshots
+
+![Taroly](./Screenshots/Screenshot_2025_GROOVE 2.png)
+
 ## Changelog
 
 ### Update 1.01
