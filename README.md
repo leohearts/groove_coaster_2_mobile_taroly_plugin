@@ -1,6 +1,8 @@
-# Groove Coaster files with 🥔Taroly
+# 🥔Taroly plugin manager for Groove Coaster 2 Android
 
 > PLEASE READ THIS FILE
+
+plugins and compiled apks: [download from 🥔cloud](https://cloud.leohearts.com/s/JyAitgJ7dZ5N5Zr)
 
 * `out_1.02.apk` # Groove Coaster apk file with 🥔Taroly injected only, and no copyright violating file included. (Now you don't need to worry about it because the official server is shutting down.)
 * `groove-choose-backup-server.tar` # to change to a community backup mirror after the official server shuts down.
