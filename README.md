@@ -11,14 +11,14 @@ plugins and compiled apks: [download from 🥔cloud](https://cloud.leohearts.com
 
   ⚠️This file may take \~5 min ~~with ui freeze~~(fixed in 1.01) to import.
 
-### How to use
+## How to use
 
 1. Install apk
 2. long press app icon, select "Taroly"
 3. Click "Import"
 4. Select downloaded plugin .tar files
 
-### If you are here after the server shut down:
+## If you are here after the server shut down:
 
 0. ensure you can enter the game. if you are stuck at "DOWNLOADING" screen *before* going to the song selection screen, import `groove_boot.tar` (which also includes a `save.bin`). also make sure you have obbs installed! you'll need to allow `install unknown apps` and `all files` permission for this app to automatically deploy obbs.
 
@@ -31,7 +31,7 @@ plugins and compiled apks: [download from 🥔cloud](https://cloud.leohearts.com
 2. you are done
 
 
-### Build from source
+## Build from source
 
 1. download v1.0.17 from [uptodown](https://groove-coaster-2.en.uptodown.com/android/download/1098447892)
 2. `apktool d groove-coaster-2-1-0-17-uptodown.apk`
@@ -40,9 +40,18 @@ plugins and compiled apks: [download from 🥔cloud](https://cloud.leohearts.com
 5. sign and install `./dist/out*.apk`
 
 
-### See also
+## See also
 
 - https://github.com/qwerfd2/Groove_Coaster_2_Server
+
+
+## Security & Privacy
+
+~~Feel free to decompile this apk 😎 (Code in `leph1.codeInject`) with jadx~~
+
+now fully open source. yes, i wrote this (partially)with smali, so no java code.
+
+## Changelog
 
 ### Update 1.01
 
@@ -59,9 +68,4 @@ Unsolved:
 - changed obb installation method, so we can change to backup mirrors after this game got no longer supported. Just import `groove-choose-backup-server.tar` in 🥔Taroly, and all songs could be downloaded as you play from our backup mirror source. You can also use `groove_fullsong_res.tar` if you just want to play offline.
 - Old resource tar and boot tar files are still supported.
 
-#### Security & Privacy
-
-~~Feel free to decompile this apk 😎 (Code in `leph1.codeInject`) with jadx~~
-
-now fully open source. yes, i wrote this (partially)with smali, so no java code.
 
