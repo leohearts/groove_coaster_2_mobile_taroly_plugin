@@ -1,6 +1,6 @@
 # 🥔Taroly plugin manager for Groove Coaster 2 Android
 
-> PLEASE READ THIS FILE
+> PLEASE READ THIS FILE. Disclaimer: this repo does NOT contain any proprietary code from the game.
 
 plugins and compiled apks: [download from 🥔cloud](https://cloud.leohearts.com/s/JyAitgJ7dZ5N5Zr)
 
@@ -58,5 +58,5 @@ Unsolved:
 
 ~~Feel free to decompile this apk 😎 (Code in `leph1.codeInject`) with jadx~~
 
-now fully open source. yes, i wrote this with smali.
+now fully open source. yes, i wrote this (partially)with smali, so no java code.
 
