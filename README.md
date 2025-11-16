@@ -15,7 +15,7 @@ plugins and compiled apks: [download from 🥔cloud](https://cloud.leohearts.com
 
 1. Install apk
 2. long press app icon, select "Taroly"
-3. Click "Import"
+3. Click "Import (tarfile) ..."
 4. Select downloaded plugin .tar files
 
 ## If you are here after the server shut down:
