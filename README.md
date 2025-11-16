@@ -11,6 +11,12 @@ plugins and compiled apks: [download from 🥔cloud](https://cloud.leohearts.com
 
   ⚠️This file may take \~5 min ~~with ui freeze~~(fixed in 1.01) to import.
 
+## Features
+
+- install .tar plugins
+- export program/current dir as .tar file
+- pseudo terminal in app context and permission
+
 ## How to use
 
 1. Install apk
