@@ -53,7 +53,7 @@ now fully open source. yes, i wrote this (partially)with smali, so no java code.
 
 ## Screenshots
 
-![Taroly](./Screenshots/Screenshot_2025_GROOVE 2.png)
+![Taroly](https://raw.githubusercontent.com/leohearts/groove_coaster_2_mobile_taroly_plugin/refs/heads/master/Screenshots/Screenshot_2025_GROOVE%202.png)
 
 ## Changelog
 
