@@ -15,6 +15,7 @@ plugins and compiled apks: [download from 🥔cloud](https://cloud.leohearts.com
 
 - install .tar plugins
 - export program/current dir as .tar file
+- backup and restore saves (with .tar export and import)
 - pseudo terminal in app context and permission
 
 ## How to use
