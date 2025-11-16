@@ -39,6 +39,11 @@ plugins and compiled apks: [download from 🥔cloud](https://cloud.leohearts.com
 4. `apktool b groove-coaster-2-1-0-17-uptodown-patched`
 5. sign and install `./dist/out*.apk`
 
+
+### See also
+
+- https://github.com/qwerfd2/Groove_Coaster_2_Server
+
 ### Update 1.01
 
 * Improve performance.
